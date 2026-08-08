@@ -1,0 +1,14 @@
+# System-wide defaults (xrdp / xorgxrdp has no working GL)
+[Compositing]
+Enabled=false
+OpenGLIsUnsafe=true
+
+[org.kde.kdecoration2]
+ButtonsOnLeft=
+ButtonsOnRight=IAX
+library=org.kde.breeze
+theme=Breeze
+BorderSize=Normal
+
+[Windows]
+BorderlessMaximizedWindows=false

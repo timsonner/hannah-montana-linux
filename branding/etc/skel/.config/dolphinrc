@@ -1,0 +1,8 @@
+[General]
+Version=202
+# Show menu bar so File → Quit is always available
+ShowMenuBar=true
+
+[MainWindow]
+MenuBar=Enabled
+ToolBarsMovable=Disabled

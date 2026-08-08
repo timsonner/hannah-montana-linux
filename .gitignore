@@ -1,0 +1,8 @@
+*.tar
+*.iso
+hml-rdp-home/
+*~
+*.un~
+.*.un~
+.DS_Store
+Thumbs.db
